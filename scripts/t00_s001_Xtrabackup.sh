@@ -1,6 +1,5 @@
 #!/bin/bash
-# This is my production backup script.
-# https://sqlgossip.com
+
 
 set -e
 set -u
