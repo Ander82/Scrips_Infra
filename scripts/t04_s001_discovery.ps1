@@ -1,4 +1,4 @@
-# Desenvolvido por Diego Cavalcante - 22/12/2017
+
 # Monitora atividade de Jobs do Iperius Backup
 
 Param(
