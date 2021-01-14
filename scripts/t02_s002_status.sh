@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# Script for checking ProxMox virtual machines backup. For use in Zabbix. Skygge@2016
-# Modified: MR_Andrew, 2018.
-# Special thanks: Max Dark, Marinero from cyberforum.ru
+# Script for checking ProxMox virtual machines backup. For use in Zabbix.
+
 
 #Variables
 
